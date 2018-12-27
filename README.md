@@ -1,1 +1,2 @@
-# React-redux-project-warehouse
+### Goal
+To make work easier
